@@ -1,0 +1,9 @@
+{
+  "name": "My AI interviewer baby boss",
+  "description": "A realistic AI-powered interview simulator with voice, video, and a detailed performance report.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
